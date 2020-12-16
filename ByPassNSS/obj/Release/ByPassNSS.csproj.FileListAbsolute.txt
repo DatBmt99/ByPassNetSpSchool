@@ -1,0 +1,9 @@
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\bin\Release\ByPassNSS.exe.config
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\bin\Release\ByPassNSS.exe
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\bin\Release\ByPassNSS.pdb
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Release\ByPassNSS.Form1.resources
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Release\ByPassNSS.Properties.Resources.resources
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Release\ByPassNSS.csproj.GenerateResource.cache
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Release\ByPassNSS.csproj.CoreCompileInputs.cache
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Release\ByPassNSS.exe
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Release\ByPassNSS.pdb

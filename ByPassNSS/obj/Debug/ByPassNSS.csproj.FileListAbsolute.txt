@@ -8,3 +8,13 @@ D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNSS\ByPassNSS\obj\Debug\ByPassNSS
 D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNSS\ByPassNSS\obj\Debug\ByPassNSS.csproj.CoreCompileInputs.cache
 D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNSS\ByPassNSS\obj\Debug\ByPassNSS.exe
 D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNSS\ByPassNSS\obj\Debug\ByPassNSS.pdb
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\bin\Debug\ByPassNSS.exe.config
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\bin\Debug\ByPassNSS.exe
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\bin\Debug\ByPassNSS.pdb
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Debug\ByPassNSS.csprojAssemblyReference.cache
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Debug\ByPassNSS.Form1.resources
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Debug\ByPassNSS.Properties.Resources.resources
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Debug\ByPassNSS.csproj.GenerateResource.cache
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Debug\ByPassNSS.csproj.CoreCompileInputs.cache
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Debug\ByPassNSS.exe
+D:\CODE LINH TINH\ByPassNetSupportSchool\ByPassNetSpSchool\ByPassNSS\obj\Debug\ByPassNSS.pdb
